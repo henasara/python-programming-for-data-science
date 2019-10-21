@@ -40,7 +40,7 @@ g.add(item)
 ```
 Which of the following data types is `g`:
 `list`, `tuple`, `dict`, `set`, or `int`?
-
+ 
 
 #### 8. In the following expression, which arithmetic operator will be calculated first?
 ```python
